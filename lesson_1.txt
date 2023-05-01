@@ -1,0 +1,66 @@
+//////////////////////////////////////////////////// --LESSON I-- ///////////////////////////////////////////////////
+
+
+27. THE NOMINATIVE CASE USED AS SUBJECT
+
+	1. Puella cantat, the girl sings (is singing, does sing).
+	2. Puellae cantant, the girls sing (are singing, do sing).
+	3. Cantatne puella, does the girl sing (is the girl singing)?
+	4. Cantantne puellae, do the girls sing (are the girls singing)?
+
+	a. In Latin there is no article: puella may be translated girl, a girl, the girl; and puellae girls or the girls.
+	b. What is the subject of each of the model sentences and what is the predicate?
+		1. Subject: puella	Predicate: cantat
+		2. Subject: puellae	Predicate: cantant
+		3. Subject: puella	Predicate: cantatne
+		4. Subject: puellae	Predicate: cantantne
+		
+	   In what case is the subject of a Latin verb?
+	   	Nominative.
+
+	c. Observe that the verbs agree with their subjects in number.
+		For example, in 1. Puella and cantat are both in their singular forms, whereas both are in their plural forms in 2.
+	
+	d. Observe that -ne is not separately translated. Usually it is attatched to the emphatic word in the sentence, and the
+	emphasized word is placed first. 
+		For example: Cantatne puella -- whereas the order was different in: Puella cantat.
+	When an interrogative word is used, -ne is ommited, like in: Quid appropinquat (What approaches?)
+
+28. Rule for the nominative case as Subject:
+	The subject of a verb is in the nominative case.
+
+29. Rule for the agreement of the Verb with its Subject:
+	A verb agrees with its subject in person and number.
+
+
+							///// EXERCISES /////
+
+30.
+	1. Nauta cantat:		The sailor sings.
+	2. Nautae cantant:		The sailors  sing.
+	3. Agricola labōrat:		The farmer labors / The farmer is working/laboring/suffering.
+	4. Agricolae labōrant:		The farmers labor / The farmers are working/laboring/surffering.
+	5. Puella natat:		The girl swims / The girl is swimming / The girl does swim.
+	6. Puellae natant:		The girls swim / The girls are swimming/ The girls do swim.
+	7. Cornēlia appropinquat:	Cornelia approaches.
+	8. Puellaene appropinquant:	Do the girls approach? / Are the girls approaching.  --why not "Appropinquantne Puellae"--
+					would "Is it the girls who are approaching?" be more correct?
+	9. Cornēlia et puellae cantant: Cornelia and the girls sing / are singing / do sing.
+	10.Iūlia labōrat et cantat:	Julia works and sings / Julia labors and sings.
+	11.Quid appropinquat:		What approaches? / What draws near?
+	12.Labōrantne nautae:		Are the sailors working? / Do the sailors work/labor/suffer?
+	13.Quis ambulat:		Who walks? / Who is walking?
+
+31.
+	1. The sailor is swimming:				Nauta natat
+	2. The girls are singing:				Puellae cantant
+	3. Who approaches?:					Quis appropinquat
+	4. Are the sailors approaching?:			Appropinquantne nautae
+	5. Does Cornelia sing?:					Cantatne Cornēlia
+	6. Cornelia and Julia are walking and singing:		Cornēlia et Iūlia ambulant et cantant
+								Cornelia and Julia, while singular nominatives, form a collective subject-and therefore, have the plural forms of the verbs.
+	7. The girl sings, and the farmer works:		Puella cantat et agricola labōrat
+	8. Sailors and farmers are working:			Nautae et agricolae labōrant
+
+		
+		

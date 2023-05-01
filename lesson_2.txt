@@ -1,0 +1,78 @@
+/////////////////////////////////////////////////// --- LESSON II --- ////////////////////////////////////////////////////////
+
+--------THE ACCUSATIVE CASE USED AS THE DIRECT OBJECT---------
+
+32. The Accusative Case used as the Direct Object
+		1. Nauta puellam vocat		The sailor calls the girl.
+		2. Nautae puellās vocant	The sailors call the girls.
+	
+	a. Observe that puellam is the object of vocat, and puellās the object of vocant; and that when a Latin noun is used as the         Object, the case ending is not the same as when it is the subject (and so in the nominative).
+	
+	   The case of the object in Latin is called accusative, and not objective, as in English.
+	
+	b. Form the accusative singular and plural of the nouns in sections 26 and 34.
+		Section 26.
+			agricola:	agricolam (sing.)	agricolās (plur.)
+			Cornēlia:	Cornēliam		Cornēliās
+			Iūlia:		Iūliam			Iūliās
+			Nauta:		Nautam			Nautās
+			Puella:		Puellam			Puellās
+
+		Section 34.
+			Aqua:		Aquam			Aquās
+			Galba:		Galbam			Galbās
+			Littera:	Litteram		Litterās
+			Terra:		Terram			Terrās
+			Tuba:		Tubam			Tubās
+
+33. Rule for the Accusative as the Direct Object:
+	The object of a verb is in the accusative case.
+
+34.         --------------VOCABULARY----------------
+
+	aqua: water (aquatic)						amat: loves, likes (amateur)
+	Galba: Galba							convocat: calls together (convoke)
+	littera: letter (of the alphabet);				habet: has, holds (habit) 
+		when plural, a letter, epistle (literary)		laudat: praises (laud)
+	terra: land (terrace)						videt: sees (provide)
+	tuba: trumpet (tuba)						vocat: calls 
+
+	
+	quem: accusative of "quis", whom?
+	quid: accusative of "quid", what?
+	nunc: (adverb), now
+
+35.       -------------ORDER OF WORDS----------------
+
+	Observe that in the model sentences (32) the order of the Latin words is unlike the order of words in the English sentences.
+	
+	The normal position of the subject of a Latin sentence is at the beginning of the sentence; 
+	that of the verb is at the end. Variations from this order put emphasis on the word moved toward the beginning of the sentence;
+	thus "puellam nauta vocat" means "the sailor calls a girl". In translating Latin sentences, put the emphasis where it belongs.
+				
+
+//////////////////////////////////// -------- EXERCISES --------- ///////////////////////////////////////////
+
+36.
+	1. Galba tubam habet:						Galba has the trumpet/tuba.
+	2. Tubāsne habet Galba:						Does Galba have trumpets?
+	3. Puellae Cornēliam et Iūliam laudant:				The girls praise Cornelia and Julia.
+	4. Litterās nauta videt:					The sailor sees the letters. --or would it be the letter?
+									--since plural littera is apparently a letter??--
+	5. Nautās Galba convocat:					Galba calls together the sailors.
+	6. Quis Galbam videt:						Who sees Galba?
+	7. Quem videt Galba:						Galba sees whom? / Whom does Galba see?
+	8. Agricola puellās nunc convocat:				The farmer now calls the girls together.
+	9. Videntne nautae terram:					Do the sailors see land?
+	10.Cornēliam puellae amant:					The girls like Cornelia.
+
+37.     1. Who is approaching?:						Quis appropinquat
+	2. The sailor and Galba are approaching:			Nauta et Galba appropinquant
+	3. What has the farmer?:					Agricola quid habet / Quid agricola habet
+									-- Quid agricola habet might be more standard since the apparently interrogative pronouns like to be at the beginning of sentences-
+	4. The farmer has land:						Agricola terram habet
+	5. Does Galba praise the farmers?:				Laudatne Galba agricolās
+	6. The girl sees the water and the land:			Puella aquam et terram videt
+	7. The sailors call together the farmers:			Nautae agricolās convocant
+	8. Julia now has the letter:					Iūlia litterās nunc habet
+	

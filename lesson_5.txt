@@ -1,0 +1,48 @@
+-----------------------------------------------------------------------------------------------------------------------------
+///////////////////////////////////////////////////// --- LESSON V --- //////////////////////////////////////////////////////
+-----------------------------------------------------------------------------------------------------------------------------
+THE PRESENT INDICATIVE ACTIVE OF THE SECOND CONJUGATION, AND CAUSAL CLAUSE WITH QUOD
+------------------------------------------------------------------------------------
+
+48. The Present Indicative Active of the Second Conjugation.
+	
+					Singular
+
+	1st Person	moneō,		I advise, am advising, do advise
+	2nd Person	monēs,  	you advise, are advising, do advise
+	3rd Person	monet,  	he/she/it advises, is advising, does advise
+
+					Plural
+
+	1st Person	monēmus,	we advise, are advising, do advise
+	2nd Person	monētis,	you (plural) advise, are advising, do advise
+	3rd Person	monent, 	they advise, are advising, do advise
+
+
+	a. What verbs belong to the 2nd conjugation? (refer to 38.)
+		Regular verbs whose present stems end in ē (as opposed to ā for the 1st conjugation).
+		e.g., monē- (present infinitve: monēre, to advise)
+
+	b. Observe that to the stem monē-, the same personal endings are added to inflect moneō that were added to the stem 
+	   amā- to inflect amō. 
+		i.e., -ō, -s, -t and -mus, -tis, -nt
+
+	   Observe the three forms in which the present tense has the e of the stem not marked long.
+		-- Looks to me like they are following the standard rules of vowel length.
+		   i.e., they are short when they precede another vowel or h, when the precede a final m or t, or when they precede nt, nd
+		
+		Compare the forms of the present tense of amō:
+			They follow the same pattern, except that for the first person singular form of the first conjugation, the 
+			present stem ending ā disappears/becomes replaced by ō entirely, but for the second conjugation, the present stem
+			ending vowel ē merely becomes shortened to a normal e as one would expect from the rules of vowel lengths.
+
+			so it is:
+				amō vs moneō
+				amās vs monēs
+				amat vs monet
+
+				amāmus vs monēmus
+				amātis vs monētis
+				amant vs monent
+
+		

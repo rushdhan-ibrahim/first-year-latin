@@ -1,0 +1,202 @@
+//////////////////////////////////////////-------------LESSON III------------///////////////////////////////////////
+
+---------------------------------THE PRESENT INDICATIVE ACTIVE OF THE 1ST CONJUGATION-----------------------------
+
+38. The Four Conjugations.
+	Regular verbs in latin are divided into four classes, or conjugations, distinguished from one another by the stem vowel
+	before the ending -re of the present infinitive active.
+
+		        	Present Infinitive	Present Stem	Distinguishing Vowel
+
+	1st Conjugation		amāre			amā-		ā
+	2nd Conjugation		monēre			monē-		ē
+	3rd Conjugation		regere			rege-		e
+	4th Conjugation		audīre			audī-		ī
+
+
+39. The Present Indicative Active of The 1st Conjugation
+	
+				Singular					Personal Endings
+		
+		1st Person	amō (I love, am loving, do love)		-ō (I)
+		2nd Person	amās (you love, are loving, do love)		-s (you)
+		3rd Person	amat (he/she/it loves, is loving, does love)	-t (he, she, it)
+
+
+				Plural						Personal Endings
+
+		1st Person	amāmus (we love, are loving, do love)		-mus (we)
+		2nd Person	amātis (you love, are loving, do love)		-tis (you)
+		3rd Person	amant (they love, are loving, do love)		-nt (they)
+
+	a. Observe that in amō the final a of the stem disappears, giving amō instead of amaō.
+	   In what forms is this a of the stem not long? (refer to 13)
+
+	   - when it precedes another vowel or an h  -- is this why the a (a vowel) disappeared? since an ō (another vowel) followed? --
+	   - when it comes before an nt or an nd
+	   - wen it comes before a final m or a final t
+	
+	b. When the subject of a verb is a personal pronoun, it is seldom expressed in Latin unless emphatic. 
+	   Why is the omission of the subject possible?
+	   
+	   - because it can generally be expressed through the personal endings of verbs. In Latin, verb endings can be used to convey
+	     person, number etc.
+	   
+	   Translate Puellās convocātis and Nautam vident.
+
+	   - You (plural) are calling the girls together.
+	   - They see the sailor.
+
+	c. Inflect like amō the present indicative active of ambulō, appropinquō, cantō, convocō, labōrō, laudō, and natō
+		1. ambulāre	
+				Singular						Personal Endings
+		
+		1st Person	ambulō (I walk, am walking, do walk)			-ō (I)		
+		2nd Person	ambulās (you walk, are walking, do walk)		-s (you)
+		3rd Person	ambulat (he/she/it walks, is walking, does walk)	-t (he/she/it)
+
+
+				Plural							Personal Endings
+
+		1st Person	ambulāmus (we walk, are walking, do walk)		-mus (we)
+		2nd Person	ambulātis (you (all) walk, are walking, do walk)	-tis (you)
+		3rd Person	ambulant (they walk, are walking, do walk)		-nt  (they)
+		
+
+	     
+		2. appropinquāre	
+				Singular						Personal Endings
+		
+		1st Person	appropinquō (I walk, am walking, do walk)		-ō (I)
+		2nd Person	appropinquās (you walk, are walking, do walk)		-s (you)
+		3rd Person	appropinquat (he/she/it walks, is walking, does walk)	-t (he/she/it)
+
+
+				Plural							Personal Endings
+
+		1st Person	appropinquāmus (we walk, are walking, do walk)		-mus (we)
+		2nd Person	appropinquātis (you (all) walk, are walking, do walk)	-tis (you)
+		3rd Person	appropinquant (they walk, are walking, do walk)		-nt (they)
+
+
+
+		3. cantāre	
+				Singular						Personal Endings
+		
+		1st Person	cantō (I sing, am singing, do sing)			-ō (I)	
+		2nd Person	cantās (you sing, are singing, do sing)			-s (you)
+		3rd Person	cantat (he/she/it sings, is singing, does sing)		-t (he/she/it)
+
+
+				Plural							Personal Endings
+
+		1st Person	cantāmus (we sing, are singing, do sing)		-mus (we)
+		2nd Person	cantātis (you (all) sing, are singing, do sing)		-tis (you)
+		3rd Person	cantant (they sing, are singing, do sing)		-nt (they)
+
+
+
+
+		4. convocāre	
+				Singular						Personal Endings
+		
+		1st Person	convocō (I call together, am calling t., do call t.)	-ō	
+		2nd Person	convocās (you call together, are calling t., do call t.)-s
+		3rd Person	convocat (he/she/it calls t., is calling t., does call) -t
+
+
+				Plural							Personal Endings
+
+		1st Person	convocāmus (we call t., are calling t., do call t.,)	-mus (we)
+		2nd Person	convocātis (you (all) call t., are calling, do call)	-tis (you)
+		3rd Person	convocant (they call, are calling, do call)		-nt (they)
+
+
+
+
+		5. labōrāre	
+				Singular						Personal Endings
+		
+		1st Person	labōrō (I labor, am laboring, do labor)			-ō (I)
+		2nd Person	labōrās (you labor, are laboring, do labor)		-s (you)
+		3rd Person	labōrat (he/she/it labors, is laboring, does labor)	-t (he/she/it)
+
+
+				Plural							Personal Endings
+
+		1st Person	labōrāmus (we labor, are laboring, do labor)		-mus (we)
+		2nd Person	labōrātis (you (all) labor, are laboring, do labor)	-tis (you)
+		3rd Person	labōrant (they labor, are laboring, do labor)		-nt (they)
+
+
+
+
+		6. laudāre	
+				Singular						Personal Endings
+		
+		1st Person	laudō (I praise, am praising, do praise)		-ō (I)
+		2nd Person	laudās (you praise, are praising, do praise)		-s (you)
+		3rd Person	laudat (he/she/it praises, is praising, does praise)	-t (he/she/it)
+
+
+				Plural							Personal Endings
+
+		1st Person	laudāmus (we praise, are praising, do praise)		-mus (we)
+		2nd Person	laudātis (you (all) praise, are praising, do praise)	-tis (you)
+		3rd Person	laudant (they praise, are praising, do praise)		-nt (they)
+
+
+
+
+		7. natāre	
+				Singular						Personal Endings
+		
+		1st Person	natō (I swim, am swimming, do swim)			-ō (I)
+		2nd Person	natās (you swim, are swimming, do swim)			-s (you)
+		3rd Person	natat (he/she/it swims, is swimming, does swim)		-t (he/she/it)
+
+
+				Plural							Personal Endings
+
+		1st Person	natāmus (we swim, are swimming, do swim)		-mus (we)
+		2nd Person	natātis (you (all) swim, are swimming, do swim)		-tis (you)
+		3rd Person	natant (they swim, are swimming, do swim)		-nt (they)
+		
+
+40. ---------------------------------- VOCABULARY-----------------------------------------
+	
+	dō: give (dative)					saepe: often [adverb]
+	    present stem is da-					
+	    the 'a' of dō is regularly short			sed: but [conjunctive]
+	    but long in dās
+
+	spectō: look at (spectator)
+		present stem is spectā-
+
+	incola: inhabitant 
+
+
+/////////////////////////////////// --------- EXERCISES ----------//////////////////////////////////
+
+
+41.
+	1. Ambulat, convocat, cantat:			He/she/it walks, calls together, sings.
+	2. Convocante, cantantne, laudantne:		Do they call together? Do they sing? Do they praise?
+	3. Natās, labōrās, ambulās:			You swim, you labor, you walk.
+	4. Amāmus, appropinquāmus, ambulāmus:		We like, we approach, we walk.
+	5. Convocātis, cantātis, amātis:		You (all) call together, you sing, you like/love.
+	6. Amant, dat, laudāmus:			They love, he/she/it gives, we praise.
+	7. Quem spectās:				Whom do you look at?
+	8. Incolās laudō:				I praise the inhabitants.
+	9. Iūliam saepe laudātis:			You (plural) praise Julia often.
+	10. Sed litterās laudāmus:			But we praise the letter.
+	11. Quid nunc datis:				What do you (plural) give / are you giving now?
+
+42.	
+	1. I swim, he swims, I am swimming:			Natō, natat, natō
+	2. Are you working?, we sing, does she praise?:		Labōrāsne (Labōrātisne?), cantāmus, laudatne
+	3. They are approaching, they give, you walk:		Appropinquant, dant, ambulās (ambulātis?)
+	4. You are praising, they swim, he does labor:		Laudās, natant, labōrat
+	5. We call together the inhabitants,			Incolās convocāmus sed nautās convocātis (convocās?)		
+	   but you call together the sailors:			
+	6. The girls are now looking at the water:		Puellae aquam nunc spectant

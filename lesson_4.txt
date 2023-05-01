@@ -1,0 +1,98 @@
+////////////////////////////////// --------------------LESSON IV -----------------------///////////////////////////////////
+---------------------------------------------------------------------------------------------------------------------------
+---------------------------------------THE GENITIVE CASE USED TO DENOTE POSSESSION-------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
+
+43. The Genitive case used to denote possession.
+
+	1. Filiae Galbae cantant:		The daughters of Galba sing, or Galba's daughters sing.
+	2. Filiās nautārum laudāmus:		We praise the daughters of the sailors.
+
+	a. Observe that Galbae modifies Filiae and tells whose daughters are singing.
+	   In the same way, nautārum modifies Filiās and tells us whose daughters we are praising. 
+
+	   This use of Galbae and of nautārum is like that of the English possessive  case.
+	   In Latin the case thus used is called the genitive, and this usage of that case is called the genitive of possession.
+
+	b. Form the genitive singular and the genitive plural of the nouns in section 26, 34 and 45.
+
+					Singular	Plural			
+		26.		
+			Agricola:    	agricolae	agricolārum				
+			Cornēlia:	Cornēliae	Cornēliārum				
+			Iūlia:		iūliae		Iūliārum						
+			Nauta:		nautae		nautārum						
+			Puella:		puellae		puellārum					
+			
+		34.
+                        Aqua:		aquae		aquārum	
+                        Galba:		Galbae		Galbārum
+                        Littera:	litterae	litterārum
+                        Terra:		terrae		terrārum
+                        Tuba:		tubae		tubārum
+
+		45.
+			Fēmina:		fēminae		fēminārum
+			Fīlia:		fīliae		fīliārum
+			Fortūna:	fortūnae	fortūnārum
+			Poēta:		poētae		poētārum
+			Rēgīna:		Rēginae		Rēgīnārum
+	
+	c. Note the translations given to the genitives in the model sentences.
+	   Translate fīlia agricolae and fīliae agricolārum.
+
+		fīlia agricolae:	The daughter of the farmer / The farmer's daughter.
+		fīliae agricolārum:	The daughters of the farmers / the farmers' daughters.
+
+	d. The genitive normally stands after the word it modifies.
+
+44. Rule for the Genitive of Possession:
+	The word denoting the owner or possessor is in the genitive case.
+
+
+45. ---------------------------------- VOCABULARY ---------------------------------------------------
+
+	fēmina: woman (feminine)			exspectō: wait, wait for	present stem: exspectā-  (expect)
+	fīlia: daughter (filial)			fugō: put to flight, rout	present stem: fugā-
+	fortūna: fortune (fortunate)			līberō: set free, free		present stem: līberā- (liberate)
+	poēta: poet (poetic)				portō: carry, bring		present stem: portā- (portable)
+	rēgīna: queen					dēlectō: delight, please	present stem: dēlectā- (delight)				
+
+	cuius: whose? of whom? of what?			etiam: even [adverb]
+	       (genitive of quis AND of quid)
+
+
+-------------------------------------------------------------------------------------------------------
+---------------------------------------- EXERCISES ----------------------------------------------------
+-------------------------------------------------------------------------------------------------------
+
+46.
+	1. Dēlectat, fugāmus, līberās:			1. He/she/it delights, we rout/putting to flight, You set free
+	2. Exspectāmus, portant, dēlectās:		2. We are waiting, they carry/are bringing, you delight/please
+	3. Dēlectāmus, fugātis, līberant:		3. We please/delight, you (plural) are routing/putting to flight, they set free
+	4. Līberatne, līberō, portāmus:			4. Does he/she/it set free? I am setting free, we carry/are bringing
+	5. Fīliās incolārum līberant: *			5. They are setting the daughters of the inhabitants free
+	6. Poētae fortūna rēgīnam dēlectat:		6. The poet's fortune pleases the queen.
+	7. Spectāmus fīliās fēminae:			7. We look at the woman's daughters.
+	8. Fīliane Galbae litterās exspectat:		8. Does she/he wait for the letter of Galba's daughter?
+							-- or is 'Does Galba's daughter expect a letter?' more correct here?
+							-- could the fact that -ne is attached to Fīlia and is placed at the start of the
+							-- sentence mean that it is emphasized to mean the latter? That the "he/she/it" 
+							-- implied by 'exspectat' simply refers again to Galba's daughter?
+	
+	9. Etiam tubae nautārum incolās fugant:		9. Even the trumpets of the sailors set the inhabitants to flight
+	10.Cuius litterās portās			10.Whose letter do you bring/carry?
+
+
+47.
+	1. I am calling together the sailors of the queen		1. Nautās rēgīnae convocō
+	2. The poets' daughters love the land				2. Fīliae poētārum terram amant
+	3. Whose daughter are you setting free?				3. Cuius fīliam līberās
+	4. Do they praise Galba's daughters?				4. Laudantne fīliās Galbae
+									   Fīliāsne Galbae laudant could also work, but since that would 
+									   put the emphasis on fīliās (by placing it at the start and
+									   attatching the enclitic to it), it might mean "Is it Galba's
+									   daughters they praise?"
+
+	5. We are now waiting for the farmers.				5. Agricolās nunc exspectāmus
+	6. Whom does the fortune of the farmers delight?		6. Quem fortūnae agricolārum dēlectant
