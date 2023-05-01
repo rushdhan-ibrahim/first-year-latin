@@ -8,7 +8,7 @@ Currently, the repository contains a `.txt` file for each lesson with my notes a
 
 I might update the organization of the files and change their format as I get further along in the book. Possible changes include:
 
-- Creating topic based files and organising them so separately so that jumping around becomes easier if you aren't following the book closely and know what to look for.
+- Creating topic based files and organising them that way separately, so that jumping around becomes easier if you aren't following the book closely and know what to look for.
 
 - Formatting the txt files to make it more standardised across lessons and more readable, and/or introducing a more structured file format, but the free-styled txt files remain a personal aesthetic preference for now.
 
