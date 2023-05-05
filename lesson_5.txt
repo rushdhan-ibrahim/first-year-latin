@@ -45,4 +45,158 @@ THE PRESENT INDICATIVE ACTIVE OF THE SECOND CONJUGATION, AND CAUSAL CLAUSE WITH 
 				amātis vs monētis
 				amant vs monent
 
+	c. To the stems docē-, habē-, terrē- and vidē- and the personal endings and thus inflect their present indicative active.	
 		
+		docē-				Singular
+
+		1st Person	doceō		I teach/show, am teaching, do teach			
+		2nd Person	docēs		You teach, are teaching, do teach		
+		3rd Person	docet		He/she/it teaches, is teaching, does teach
+
+						Plural
+
+		1st Person	docēmus		We teach, are teaching, do teach	
+		2nd Person	docētis		You (plural) teach, are teaching, do teach	
+		3rd Person	docent		They teach, are teaching, do teach	
+		------------------------------------------------------------------------------------------------------------------
+
+		habē-				Singular
+
+		1st Person	habeō		I have, am having/holding, do have		
+		2nd Person	habēs		You have, are having, do have	
+		3rd Person	habet		He/she/it has, is having, does have
+
+						Plural
+
+		1st Person	habēmus		We have, are having, do have	
+		2nd Person	habētis		You (plural) have, are having, do have	
+		3rd Person	habent		They have, are having, do have	
+		------------------------------------------------------------------------------------------------------------------
+
+		terrē-				Singular
+
+		1st Person	terreō		I scare, am scaring/frightening, do scare	
+		2nd Person	terrēs		You scare, are scaring, do scare	
+		3rd Person	terret		He/she/it scares, is scaring, does scare	
+
+						Plural
+
+		1st Person	terrēmus	We scare, are scaring, do scare	
+		2nd Person	terrētis	You (plural) scare, are scaring, do scare	
+		3rd Person	terrent		They scare, are scaring, do scare	
+		------------------------------------------------------------------------------------------------------------------
+
+		vidē-				Singular
+
+		1st Person	videō		I see, am seeing, do see	
+		2nd Person	vidēs		You see, are seeing, do see		
+		3rd Person	videt		She/he/it sees, is seeing, does see	
+
+						Plural
+
+		1st Person	vidēmus		We see, are seeing, do see	
+		2nd Person	vidētis		You (plural) see, are seeing, do see	
+		3rd Person	vident		They see, are seeing, do see	
+		------------------------------------------------------------------------------------------------------------------
+
+
+49.	----------------------------------------- VOCABULARY ---------------------------------------------------------------------
+	
+	Pecūnia: money (pecuniary)		Moneō, monēre: advise, warn (admonition)
+	Pīrāta: pirate (piratical)		Terreō, terrēre: scare, frighten (terror)
+	Praeda: booty, plunder (predatory)	Videō, vidēre: see (improvident)
+						Doceō, docēre: teach, show (docile)
+	Cūr: why? [adverb]			Habeō, habēre: have, hold (habit)
+	Quod: because [conjunctive]
+
+	a. The infinitive will hereafter be given with each verb in the vocabulary.
+	   Of what help will this be to you? (refer to 38.)
+
+		It'll help me identify the conjugation to which each regular verb belongs, as they are distinguished
+		from each other by the stem vowel before the ending -re of the present infinitive active, 
+
+		This is helpful because it's not always obvious from their non infinitve personal endings.
+		e.g., amāre is a first conjugation verb, as indicated by the ā before -re, however, its 1st person sg.
+		present indicative active form is amō, which might lead one to mistakenly conclude that it is second
+		conjugation.
+
+
+50. Causal Clause
+	For the kinds of clauses complex see xix, xx in Essentials of Grammar:
+		XIX. A complex sentence contains one independent (principal) statement and one or more dependent (subordinate)
+		     statements:
+			When the messenger had replied [dependent], the the lieutenant spoke as follows.
+			(A dependent or subordinate statement is one that qualifies or limits another in some way;
+			thus the dependent statement "When the messenger had replied" limits the verb "spoke",
+			telling when the lieutenant spoke.)
+
+		XX. a. The separate statements in a compound or a complex sentence are called clauses, and they may be 
+		       either independent (principal) or dependent (subordinate).
+
+		    b. When dependent (subordinate) clauses modify nouns or pronouns they are called adjective clauses:
+			The girls *whom we praised* were good,	puellae *quās laudāvimus* bonae erant
+
+		    c. When dependent (subordinate) clauses modify verbs they are called adverbial clauses: 
+			*When the messenger has replied*, the lieutenant spoke as follows.
+			(where spoke is the verb that gets modified)
+
+		    d. When dependent (subordinate) clauses are used as nouns, they are called substantive clauses:
+			*That you are here* pleases us
+			("That you are here" is considered to be used as a noun here because it is the subject of
+			of the verb "pleases" in this context; it is the entity that "does" the pleasing.)
+
+		    e. Dependent (subordinate) clauses introduced by when (cum, ubi, etc.) are called temporal clauses;
+		       introduced by because (quod etc.), they are called causal clauses;
+		       introduced by although (cum, etsī, etc.), they are called concessive clauses;
+		       introduced by a relative pronoun like who, whom, whose, which, that (quī), they are relative clauses.
+
+		    f. The independent clause of a complex sentence is called the principal clause. Connected clauses that are
+		       of the same rank, both independent or both dependent, are said to be coördinate.
+		       
+        Incolās monet quod pīratae appropinquant:	He/she/it warns the inhabitants because the pirates draw near
+
+	a. Observe that quod introduces a dependent clause, which tells the reason, or cause, of what is stated in the independent
+	   part of the sentence. Such a quod clause is called a causal clause.
+
+
+51. Rule for a Causal Clause with Quod.
+	The cause of an action may be expressed by a dependent clause introduced by quod.
+
+---------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------- EXERCISES ------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+
+52.
+	1. Pecūniam habēs:				You have money.
+	2. Iūliam doceō:				I teach Julia.
+	3. Incolās saepe monēs:				You advise the inhabitants often.
+	4. Puellāsne terrent:				Do they frighten the girls?
+	5. Quem vident:					Whom do they see?
+	6. Monēmus et docēmus:				We advise and we teach.
+	7. Quid habēmus:				What do we have?
+	8. Praedam nunc videō:				I see (a) booty/plunder now.
+	9. Tubam vidētis:				You (plural) see the trumpet.
+	10.Agricolāsne monētis:				Do you (plural) advise/warn the farmers?
+	11.Litterās habent:				They have the/a letter.
+	12.Iūlia fīliās poētae docet:			Julia teaces the poet's daughters.
+	13.Etiam pecūniam agricolārum habent pīrātae:	The pirates hold/have even the farmers' money
+	14.Fīliārum fortūna fēminam dēlectat:		The fortune of the daughters delights the woman.
+	15.Cūr Iūliam et Cornēliam monet:		Why does she warn Julia and Cornelia?
+	16.Quem docēs et monēs:				Whom do you teach and advise?
+	17.Fēminae puellās laudant quod laborant:	The women praise the girls because they are work.
+
+53.
+	1. They are advising:						Monent
+	2. They have:							Habent
+	3. I am warning:						Moneō
+	4. You frighten:						Terrēs
+	5. We see:							Vidēmus
+	6. Does he teach the girls?					Docetne puellās (or Puellāsne docet if we want to emphasize girl)
+	7. Do Cornelia and Julia look at the pirate?			Pīrātamne Cornēlia et Iūlia spectant			
+	8. Why do the pirates frighten the inhabitants?			Cūr incolās pīrātae terrent
+	9. They have the money and the booty.				Percūniam et praedam habent
+	10.We praise the woman because she teaches the girls.		Fēminam laudāmus quod puellās docet
+	11.What do you see?						Quid vidēs (or Quid vidētis if the you is plural)
+	12.What are you looking at?					Quid spectās / Quid spectātis
+
+
