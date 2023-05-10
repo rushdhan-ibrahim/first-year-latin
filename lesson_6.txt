@@ -1,0 +1,179 @@
+-----------------------------------------------------------------------------------------------------------------------------
+///////////////////////////////////////////////////// --- LESSON VI --- //////////////////////////////////////////////////////
+-----------------------------------------------------------------------------------------------------------------------------
+    THE DATIVE CASE USED AS THE INDIRECT OBJECT  ◎  THE ABLATIVE CASE USED IN PREPOSITIONAL PHRASES TO SHOW PLACE, WHERE
+-----------------------------------------------------------------------------------------------------------------------------
+
+54. The Dative and Ablative Cases.
+	Besides the three cases we have already studied, there are in Latin in common use two other cases, the dative
+	and the ablative.
+
+	From XXIV in the Essentials of Grammar: Case
+		
+		a. The several forms taken by words that are declined are called cases. In English there are the
+		   following cases to indicate the uses of nouns and pronouns:
+
+			1. The nominative, primarily used as the subject of a sentence.
+			   *He* throws the ball.
+			   
+			2. The possesive (genitive), used to denote possession or ownership.
+			   John throws *his* ball.
+
+			3. The objective (accusative) used as the object of a transitive verb or of a preposition.
+			   John throws the *ball* to *him*.
+
+				[Where a preposition is a word that shows the relationship between a noun or pronoun
+			   	 and other words in a sentence. They usually express spatial, temporal or logical 
+			   	 relationships between their objects (nouns or pronouns) and other parts of the sentence.
+			   	 
+			   	 In English, some common prepositons include in, on, at, to, for, with, by, about, of, 
+			   	 above, below, before, between, after, among, along, across, through, inside and outside.
+			   	 
+			   	 While it's obvious what objects receives from transitive verbs, it is less so with
+			   	 prepositions. Perhaps it is the relationship with the rest of the sentence that objects
+			   	 receive from preopositions?]
+
+			4. The dative, used to express the indirect object of the verb.
+			   John throws *him* the ball (where the ball is the direct object and him the indirect one).
+				
+				Only personal pronouns and the pronoun who have separate forms for these cases in English.
+				Nouns have the nominative, objective and dative alike, with a separate form for the
+				possessive.
+
+		b. In Latin there are seven cases: nominative, accusative, genitive, dative, ablative, locative and vocative.
+		   But a single form sometimes does duty for several cases (agricola in 63.).
+		   The nominative, genitive and accusative cases are used much like the same cases in English. 
+
+		   The dative expresses in general the relationship of words to other words which is expressed in English by
+		   prespositional phrases beginning with to or for: (to the farmer, for the man)
+
+		   The ablative expresses in general the relation of words to other words which is expressed in English by 
+		   prepositional phrases beginning with from, with, by, in: (with a spear, by a story)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+55.							   VOCABULARY
+----------------------------------------------------------------------------------------------------------------------------------------
+	       Domina: lady, mistress [of slaves] (dominant)	       dēmōnstrō, dēmōnstrāre: point out, show (demonstrate)
+	       fābula: story (fable)				       habitō, habitāre:       dwell, live (inhabitant)
+	       īnsula: island (peninsula)			       maneō, manēre:	       remain (mansion)	
+	       via:    way, road, street (viaduct)		       nārrō, nārrāre:	       tell, relate (narrator)
+									
+	       in:     in, on [preposition with ablative]
+	       cui:    to whom? for whom? to what? for what?
+				[dative of quis AND quid]
+----------------------------------------------------------------------------------------------------------------------------------------
+
+56. The Dative used as Indirect Object
+
+   Cºrnēliae et puellīs fābulam nārrō: I am telling a story to Cornelia and the girls / I am telling Cornelia and the girls a story.
+
+   a. Observe that what is being told is a story, fābulam, the direct objective (in the accusative case for singular: -am);
+      and the persons to whom the story is told are Cornelia and the girls (the indirect objects), they (Cornēliae, puellis)
+      are therefore in the Dative Case, as this is the case which expresses the relation of "to" or "for" (xxiv b).
+      This usage is called the Dative of the Indirect Object.
+
+   b. The Dative Case endings are -ae (singular) and -īs, plural.
+      [Note that the -ae ending is also used to denote plural of the nominative as subject, and for denoting the singular case of 
+      genitive used to denote possession (or the possessor, more accurately).]
+      
+      Form the dative singular and plural of the nouns in sections 26, 34 and 55.
+      ---------------------------------------------------------------------------
+	 
+	 26.   Dative Singular	     Dative Plural
+
+	       agricolae	     agricolīs
+	       Cornēliae	     Cornēliīs
+	       Iūliae		     Iūliīs
+	       nautae		     nautīs  
+	       puellae		     puellīs
+
+        34.
+	       aquae		     aquīs
+	       Galbae		     Galbīs
+	       litterae		     litterīs
+	       terrae		     terrīs
+	       tubae		     tubīs
+
+        55.
+	       dominae		     dominīs
+	       fābulae		     fāblulīs
+	       īnsulae		     īnsulīs
+	       viae		     viīs
+     ----------------------------------------------------------------------------
+
+57. Rule for the Dative of the Indirect Object:
+
+	 The indirect object of a verb is in the dative case.
+
+58. The Ablative used in Prepositional Phrases to show Place Where.
+
+   In terrā et īnsulīs habitant: They live on the land and on the islands
+
+   a. Observe that the phrases (XVI, a) on the land, in terrā, and on the islands, in īnsulīs, show *place where*.
+      Terrā and īnsulīs are in the ablative case (XXIV, b).
+
+   b. The case endings of the ablative are -ā (singular), and -īs (plural). 
+
+   c.  Form the ablative, singular and plural, of the nouns in sections 26, 34 and 55.
+   -----------------------------------------------------------------------------------
+
+	   Ablative Singular	     Ablative Plural
+	   -----------------	     ---------------
+      26.   agricolā		       agricolīs
+	    Cornēliā		       Cornēliīs
+	    Iūliā		       Iūliīs
+	    nautā		       nautīs
+	    puellā		       puellīs
+
+      34.   aquā		       aquīs
+	    Galbā		       Galbīs
+	    litterā		       litterīs
+	    terrā		       terrīs
+	    tubā		       tubīs
+
+      55.   dominā		       dominīs
+	    fābulā		       fābulīs
+	    īnsulā		       īnsulīs
+	    viā			       viīs
+   -----------------------------------------------------------------------------------
+
+59. Rule for the Ablative of Place Where:
+   
+    Place Where is commonly expressed by a phrase consisting of a preposition, usually, "in", with the ablative case.
+
+60. Order of words.
+   
+    The indirect object normally stands before the direct object.
+    An ablative normally stands before the direct object.
+    Variations from this order give emphasis to the word removed from the normal position.
+
+
+----------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------- EXERCISES -------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
+
+61.
+   
+   1. Agricola dominae viam dēmōnstrat:			       1. The famer shows the way to the lady.
+   2. Puellīs etiam Cornēlia fābulam nārrat:		       2. Cornelia tells the story even to the girls.
+   3. In īnsulā habitāmus:				       3. We live on the island. 
+   4. Quis poētīs īnsulam dēmōstrat:			       4. Who shows the island to the poets? 
+   5. Cūr pīrātae in aquā manent:			       5. Why do the pirates remain in the water? 
+   6. Cui pecūniam dās:					       6. Whom do you give the money to?
+   7. Nautae agricolīs praedam dēmōnstrant:		       7. The sailors show the booty to the farmers.
+   8. Incolae in viīs appropinquant et rēginam spectant:       8. The inhabitants approach on the roads and watch the queen.
+   9. Dominam amant quod fābulās nārrat:		       9. They love the lady because she tells stories.
+
+62. 
+
+   1. To whom are you pointing out the lady?		       1. Cui dominam dēmōnstrās
+   2. I am pointing out the letter to Julia.		       2. Iūliae litterās dēmōnstrō
+   3. They are telling stories to the queen.		       3. Rēgīnae fābulās nārrant
+   4. Galba's daughter gives money to the sailors.	       4. Fīlia Galbae nautīs pecūniam dat 
+   5. Do the pirates live on the island?		       5. Habitantne in īnsulā pīrātae 
+   6. Whose daughters are approaching in the street?	       6. Cuius fīliae in viā appropinquant
+
+----------------------------------------------------------------------------------------------------------------------- 
+
+
